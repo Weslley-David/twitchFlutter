@@ -1,4 +1,4 @@
-# dayli_app
+# twitchFlutter
 
 A new Flutter project.
 
