@@ -1,0 +1,11 @@
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/dayli_app
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/weslley/Projects/ProgramacaoParaDispositivosMoveis/dayli_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
